@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Prism",
+  "description": "Spatial computing and 3D architectural material visualization studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
